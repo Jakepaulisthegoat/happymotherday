@@ -1,0 +1,16 @@
+body{
+    height: 100vh;
+    width: 100%;
+    background
+}
+img{
+    height: 500px;
+    width:500px
+}
+table-img{
+	border-radius: 50
+
+}
+table,th,td{
+border:3px solid red;border-collapse: collapse;padding: 10px;
+}
